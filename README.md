@@ -1,2 +1,3 @@
 # MultithreadedEchoServer
-Multithreaded echo server built in C.
+Multithreaded echo server using the producer-consumer model built in c.
+
